@@ -12,4 +12,5 @@ public class Demo {
 	{
 		System.out.println("Change3");
 	}
+	public void change4()
 }
