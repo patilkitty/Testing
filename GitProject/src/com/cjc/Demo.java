@@ -6,6 +6,10 @@ public class Demo {
 	}
 	public void change1()
 	{
-		System.out.println("change1");
+		System.out.println("change2");
+	}
+	public void change3()
+	{
+		System.out.println("Change3");
 	}
 }
