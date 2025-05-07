@@ -6,5 +6,10 @@ public class Demo {
 	}
 	public void change1()
 	{
+		System.out.println("Change by asawari");
+	}
+	public void change2()
+	{
+		System.out.println("Change by asawari");
 	}
 }
